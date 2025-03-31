@@ -21,7 +21,7 @@ This is a Library Management System built using C++, designed to efficiently man
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Library-Management-System.git
+git clone https://github.com/Ganga2807/Library-Management-System.git
 cd Library-Management-System
 
 2️⃣ Compile the Code
