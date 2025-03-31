@@ -22,19 +22,13 @@ Secure Input Handling (_getch() for password masking)
 Installation & Setup
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1) Clone the Repository
+1) Clone the Repository :  git clone https://github.com/Ganga2807/Efficient-Library-Management-System.git
 
-git clone https://github.com/Ganga2807/Efficient-Library-Management-System.git
+ cd Library-Management-System
 
-cd Library-Management-System
+3) Compile the Code :   g++ library_management.cpp -o library_management
 
-2) Compile the Code
-
-g++ library_management.cpp -o library_management
-
-3) Run the Program
-
-./library_management
+3) Run the Program :  ./library_management
 
 Usage Instructions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
