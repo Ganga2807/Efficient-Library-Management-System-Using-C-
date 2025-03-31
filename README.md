@@ -1,38 +1,41 @@
 # Efficient-Library-Management-System-Using-C-
 This is a Library Management System built using C++, designed to efficiently manage book records. It provides features for adding, displaying, and deleting books while ensuring security through a password system.
 
-🚀 Features
+ Features
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔹 Secure Access: Users must set a password at the start.
-🔹 Book Management: Add, view, and delete books easily.
-🔹 File Handling: Books are stored in a text file (books.txt) for data persistence.
-🔹 User-Friendly Interface: Simple CLI-based interaction.
+Secure Access: Users must set a password at the start.
 
-🛠 Technologies Used
+Book Management: Add, view, and delete books easily.
+
+File Handling: Books are stored in a text file (books.txt) for data persistence.
+
+User-Friendly Interface: Simple CLI-based interaction.
+
+Technologies Used
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔹C++ (Core Logic & File Handling)
+C++ (Core Logic & File Handling)
 
-🔹File I/O (Persistent storage for books)
+File I/O (Persistent storage for books)
 
-🔹Secure Input Handling (_getch() for password masking)
+Secure Input Handling (_getch() for password masking)
 
 🔧 Installation & Setup
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1️⃣ Clone the Repository
+1) Clone the Repository
 
 git clone https://github.com/Ganga2807/Library-Management-System.git
 cd Library-Management-System
 
-2️⃣ Compile the Code
+2) Compile the Code
 
 g++ library_management.cpp -o library_management
 
-3️⃣ Run the Program
+3) Run the Program
 
 ./library_management
 
-📜 Usage Instructions
+Usage Instructions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1)Set a password when prompted.
 
@@ -46,7 +49,7 @@ g++ library_management.cpp -o library_management
 
 4 → Exit the system.
 
-🔮 Future Enhancements
+ Future Enhancements
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔ Password encryption for better security.
 
