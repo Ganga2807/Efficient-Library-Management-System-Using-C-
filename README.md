@@ -49,5 +49,7 @@ g++ library_management.cpp -o library_management
 🔮 Future Enhancements
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✔ Password encryption for better security.
+
 ✔ GUI-based version for improved usability.
-✔ **Advanced search and sorting functionality.
+
+✔ Advanced search and sorting functionality.
